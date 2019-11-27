@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name keebs)(type KiCad)(uri "G:/+ 00 + Projects/keyboard/lib/keebs.pretty-master")(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri "G:/+ 00 + Projects/keyboard/lib/keyboard_parts.pretty-master")(options "")(descr ""))
+)

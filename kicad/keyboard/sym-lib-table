@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name promicro)(type Legacy)(uri ${KIPRJMOD}/libs/promicro_library/promicro.lib)(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri "G:/+ 00 + Projects/keyboard/lib/promicro_library/promicro.lib")(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri "G:/+ 00 + Projects/keyboard/lib/kicad_lib_tmk-master/keyboard_parts.lib")(options "")(descr ""))
 )
