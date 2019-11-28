@@ -132,7 +132,7 @@ U 1 1 5E3FFE33
 P 6850 8900
 F 0 "K64" V 6850 8900 60  0000 C CNN
 F 1 "KEYSW" H 6850 8800 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6850 8900 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 6850 8900 60  0001 C CNN
 F 3 "" H 6850 8900 60  0000 C CNN
 	1    6850 8900
 	0    1    1    0   
@@ -155,7 +155,7 @@ U 1 1 5E3FFE3F
 P 6350 8900
 F 0 "K63" V 6350 8900 60  0000 C CNN
 F 1 "KEYSW" H 6350 8800 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6350 8900 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 6350 8900 60  0001 C CNN
 F 3 "" H 6350 8900 60  0000 C CNN
 	1    6350 8900
 	0    1    1    0   
@@ -166,7 +166,7 @@ U 1 1 5E3FFE45
 P 5850 8900
 F 0 "K62" V 5850 8900 60  0000 C CNN
 F 1 "KEYSW" H 5850 8800 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5850 8900 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 5850 8900 60  0001 C CNN
 F 3 "" H 5850 8900 60  0000 C CNN
 	1    5850 8900
 	0    1    1    0   
@@ -189,7 +189,7 @@ U 1 1 5E3FFE51
 P 5350 8900
 F 0 "K61" V 5350 8900 60  0000 C CNN
 F 1 "KEYSW" H 5350 8800 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5350 8900 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 5350 8900 60  0001 C CNN
 F 3 "" H 5350 8900 60  0000 C CNN
 	1    5350 8900
 	0    1    1    0   
@@ -200,7 +200,7 @@ U 1 1 5E3FFE57
 P 4850 8900
 F 0 "K60" V 4850 8900 60  0000 C CNN
 F 1 "KEYSW" H 4850 8800 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4850 8900 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 4850 8900 60  0001 C CNN
 F 3 "" H 4850 8900 60  0000 C CNN
 	1    4850 8900
 	0    1    1    0   
@@ -229,7 +229,7 @@ U 1 1 5E3FFE66
 P 4350 8900
 F 0 "K59" V 4350 8900 60  0000 C CNN
 F 1 "KEYSW" H 4350 8800 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4350 8900 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 4350 8900 60  0001 C CNN
 F 3 "" H 4350 8900 60  0000 C CNN
 	1    4350 8900
 	0    1    1    0   
@@ -240,7 +240,7 @@ U 1 1 5E3FFE6C
 P 3350 8900
 F 0 "K57" V 3350 8900 60  0000 C CNN
 F 1 "KEYSW" H 3350 8800 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3350 8900 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3350 8900 60  0001 C CNN
 F 3 "" H 3350 8900 60  0000 C CNN
 	1    3350 8900
 	0    1    1    0   
@@ -251,7 +251,7 @@ U 1 1 5E3FFE72
 P 3850 8900
 F 0 "K58" V 3850 8900 60  0000 C CNN
 F 1 "KEYSW" H 3850 8800 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3850 8900 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3850 8900 60  0001 C CNN
 F 3 "" H 3850 8900 60  0000 C CNN
 	1    3850 8900
 	0    1    1    0   
@@ -366,7 +366,7 @@ U 1 1 5E3FFEB3
 P 6850 7850
 F 0 "K56" V 6850 7850 60  0000 C CNN
 F 1 "KEYSW" H 6850 7750 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6850 7850 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 6850 7850 60  0001 C CNN
 F 3 "" H 6850 7850 60  0000 C CNN
 	1    6850 7850
 	0    1    1    0   
@@ -389,7 +389,7 @@ U 1 1 5E3FFEBF
 P 6350 7850
 F 0 "K55" V 6350 7850 60  0000 C CNN
 F 1 "KEYSW" H 6350 7750 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6350 7850 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 6350 7850 60  0001 C CNN
 F 3 "" H 6350 7850 60  0000 C CNN
 	1    6350 7850
 	0    1    1    0   
@@ -400,7 +400,7 @@ U 1 1 5E3FFEC5
 P 5850 7850
 F 0 "K54" V 5850 7850 60  0000 C CNN
 F 1 "KEYSW" H 5850 7750 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5850 7850 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 5850 7850 60  0001 C CNN
 F 3 "" H 5850 7850 60  0000 C CNN
 	1    5850 7850
 	0    1    1    0   
@@ -423,7 +423,7 @@ U 1 1 5E3FFED1
 P 5350 7850
 F 0 "K53" V 5350 7850 60  0000 C CNN
 F 1 "KEYSW" H 5350 7750 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5350 7850 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 5350 7850 60  0001 C CNN
 F 3 "" H 5350 7850 60  0000 C CNN
 	1    5350 7850
 	0    1    1    0   
@@ -434,7 +434,7 @@ U 1 1 5E3FFED7
 P 4850 7850
 F 0 "K52" V 4850 7850 60  0000 C CNN
 F 1 "KEYSW" H 4850 7750 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4850 7850 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 4850 7850 60  0001 C CNN
 F 3 "" H 4850 7850 60  0000 C CNN
 	1    4850 7850
 	0    1    1    0   
@@ -476,7 +476,7 @@ U 1 1 5E3FFEED
 P 4350 7850
 F 0 "K51" V 4350 7850 60  0000 C CNN
 F 1 "KEYSW" H 4350 7750 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4350 7850 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 4350 7850 60  0001 C CNN
 F 3 "" H 4350 7850 60  0000 C CNN
 	1    4350 7850
 	0    1    1    0   
@@ -487,7 +487,7 @@ U 1 1 5E3FFEF3
 P 3350 7850
 F 0 "K49" V 3350 7850 60  0000 C CNN
 F 1 "KEYSW" H 3350 7750 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3350 7850 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3350 7850 60  0001 C CNN
 F 3 "" H 3350 7850 60  0000 C CNN
 	1    3350 7850
 	0    1    1    0   
@@ -498,7 +498,7 @@ U 1 1 5E3FFEF9
 P 3850 7850
 F 0 "K50" V 3850 7850 60  0000 C CNN
 F 1 "KEYSW" H 3850 7750 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3850 7850 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3850 7850 60  0001 C CNN
 F 3 "" H 3850 7850 60  0000 C CNN
 	1    3850 7850
 	0    1    1    0   
@@ -621,7 +621,7 @@ U 1 1 5E3FFF42
 P 6850 6800
 F 0 "K48" V 6850 6800 60  0000 C CNN
 F 1 "KEYSW" H 6850 6700 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6850 6800 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 6850 6800 60  0001 C CNN
 F 3 "" H 6850 6800 60  0000 C CNN
 	1    6850 6800
 	0    1    1    0   
@@ -644,7 +644,7 @@ U 1 1 5E3FFF4E
 P 6350 6800
 F 0 "K47" V 6350 6800 60  0000 C CNN
 F 1 "KEYSW" H 6350 6700 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6350 6800 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 6350 6800 60  0001 C CNN
 F 3 "" H 6350 6800 60  0000 C CNN
 	1    6350 6800
 	0    1    1    0   
@@ -655,7 +655,7 @@ U 1 1 5E3FFF54
 P 5850 6800
 F 0 "K46" V 5850 6800 60  0000 C CNN
 F 1 "KEYSW" H 5850 6700 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5850 6800 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 5850 6800 60  0001 C CNN
 F 3 "" H 5850 6800 60  0000 C CNN
 	1    5850 6800
 	0    1    1    0   
@@ -678,7 +678,7 @@ U 1 1 5E3FFF60
 P 5350 6800
 F 0 "K45" V 5350 6800 60  0000 C CNN
 F 1 "KEYSW" H 5350 6700 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5350 6800 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 5350 6800 60  0001 C CNN
 F 3 "" H 5350 6800 60  0000 C CNN
 	1    5350 6800
 	0    1    1    0   
@@ -689,7 +689,7 @@ U 1 1 5E3FFF66
 P 4850 6800
 F 0 "K44" V 4850 6800 60  0000 C CNN
 F 1 "KEYSW" H 4850 6700 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4850 6800 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 4850 6800 60  0001 C CNN
 F 3 "" H 4850 6800 60  0000 C CNN
 	1    4850 6800
 	0    1    1    0   
@@ -731,7 +731,7 @@ U 1 1 5E3FFF7C
 P 4350 6800
 F 0 "K43" V 4350 6800 60  0000 C CNN
 F 1 "KEYSW" H 4350 6700 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4350 6800 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 4350 6800 60  0001 C CNN
 F 3 "" H 4350 6800 60  0000 C CNN
 	1    4350 6800
 	0    1    1    0   
@@ -742,7 +742,7 @@ U 1 1 5E3FFF82
 P 3350 6800
 F 0 "K41" V 3350 6800 60  0000 C CNN
 F 1 "KEYSW" H 3350 6700 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3350 6800 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3350 6800 60  0001 C CNN
 F 3 "" H 3350 6800 60  0000 C CNN
 	1    3350 6800
 	0    1    1    0   
@@ -753,7 +753,7 @@ U 1 1 5E3FFF88
 P 3850 6800
 F 0 "K42" V 3850 6800 60  0000 C CNN
 F 1 "KEYSW" H 3850 6700 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3850 6800 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3850 6800 60  0001 C CNN
 F 3 "" H 3850 6800 60  0000 C CNN
 	1    3850 6800
 	0    1    1    0   
@@ -868,7 +868,7 @@ U 1 1 5E3FFFC9
 P 6850 5750
 F 0 "K40" V 6850 5750 60  0000 C CNN
 F 1 "KEYSW" H 6850 5650 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6850 5750 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 6850 5750 60  0001 C CNN
 F 3 "" H 6850 5750 60  0000 C CNN
 	1    6850 5750
 	0    1    1    0   
@@ -891,7 +891,7 @@ U 1 1 5E3FFFD5
 P 6350 5750
 F 0 "K39" V 6350 5750 60  0000 C CNN
 F 1 "KEYSW" H 6350 5650 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6350 5750 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 6350 5750 60  0001 C CNN
 F 3 "" H 6350 5750 60  0000 C CNN
 	1    6350 5750
 	0    1    1    0   
@@ -902,7 +902,7 @@ U 1 1 5E3FFFDB
 P 5850 5750
 F 0 "K38" V 5850 5750 60  0000 C CNN
 F 1 "KEYSW" H 5850 5650 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5850 5750 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 5850 5750 60  0001 C CNN
 F 3 "" H 5850 5750 60  0000 C CNN
 	1    5850 5750
 	0    1    1    0   
@@ -925,7 +925,7 @@ U 1 1 5E3FFFE7
 P 5350 5750
 F 0 "K37" V 5350 5750 60  0000 C CNN
 F 1 "KEYSW" H 5350 5650 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5350 5750 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 5350 5750 60  0001 C CNN
 F 3 "" H 5350 5750 60  0000 C CNN
 	1    5350 5750
 	0    1    1    0   
@@ -936,7 +936,7 @@ U 1 1 5E3FFFED
 P 4850 5750
 F 0 "K36" V 4850 5750 60  0000 C CNN
 F 1 "KEYSW" H 4850 5650 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4850 5750 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 4850 5750 60  0001 C CNN
 F 3 "" H 4850 5750 60  0000 C CNN
 	1    4850 5750
 	0    1    1    0   
@@ -978,7 +978,7 @@ U 1 1 5E400003
 P 4350 5750
 F 0 "K35" V 4350 5750 60  0000 C CNN
 F 1 "KEYSW" H 4350 5650 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4350 5750 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 4350 5750 60  0001 C CNN
 F 3 "" H 4350 5750 60  0000 C CNN
 	1    4350 5750
 	0    1    1    0   
@@ -989,7 +989,7 @@ U 1 1 5E400009
 P 3350 5750
 F 0 "K33" V 3350 5750 60  0000 C CNN
 F 1 "KEYSW" H 3350 5650 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3350 5750 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3350 5750 60  0001 C CNN
 F 3 "" H 3350 5750 60  0000 C CNN
 	1    3350 5750
 	0    1    1    0   
@@ -1000,25 +1000,18 @@ U 1 1 5E40000F
 P 3850 5750
 F 0 "K34" V 3850 5750 60  0000 C CNN
 F 1 "KEYSW" H 3850 5650 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3850 5750 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3850 5750 60  0001 C CNN
 F 3 "" H 3850 5750 60  0000 C CNN
 	1    3850 5750
 	0    1    1    0   
 $EndComp
 Connection ~ 7000 3350
-Connection ~ 7000 2300
 Connection ~ 6500 3350
-Connection ~ 6500 2300
 Connection ~ 6000 3350
-Connection ~ 6000 2300
 Connection ~ 5500 3350
-Connection ~ 5500 2300
 Connection ~ 5000 3350
-Connection ~ 5000 2300
 Connection ~ 4500 3350
-Connection ~ 4500 2300
 Connection ~ 4000 3350
-Connection ~ 4000 2300
 Connection ~ 3500 3350
 Wire Wire Line
 	6350 5350 6850 5350
@@ -1130,7 +1123,7 @@ U 1 1 5E400060
 P 6850 4700
 F 0 "K32" V 6850 4700 60  0000 C CNN
 F 1 "KEYSW" H 6850 4600 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6850 4700 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 6850 4700 60  0001 C CNN
 F 3 "" H 6850 4700 60  0000 C CNN
 	1    6850 4700
 	0    1    1    0   
@@ -1153,7 +1146,7 @@ U 1 1 5E40006C
 P 6350 4700
 F 0 "K31" V 6350 4700 60  0000 C CNN
 F 1 "KEYSW" H 6350 4600 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6350 4700 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 6350 4700 60  0001 C CNN
 F 3 "" H 6350 4700 60  0000 C CNN
 	1    6350 4700
 	0    1    1    0   
@@ -1164,7 +1157,7 @@ U 1 1 5E400072
 P 5850 4700
 F 0 "K30" V 5850 4700 60  0000 C CNN
 F 1 "KEYSW" H 5850 4600 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5850 4700 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 5850 4700 60  0001 C CNN
 F 3 "" H 5850 4700 60  0000 C CNN
 	1    5850 4700
 	0    1    1    0   
@@ -1187,7 +1180,7 @@ U 1 1 5E40007E
 P 5350 4700
 F 0 "K29" V 5350 4700 60  0000 C CNN
 F 1 "KEYSW" H 5350 4600 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5350 4700 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 5350 4700 60  0001 C CNN
 F 3 "" H 5350 4700 60  0000 C CNN
 	1    5350 4700
 	0    1    1    0   
@@ -1198,7 +1191,7 @@ U 1 1 5E400084
 P 4850 4700
 F 0 "K28" V 4850 4700 60  0000 C CNN
 F 1 "KEYSW" H 4850 4600 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4850 4700 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 4850 4700 60  0001 C CNN
 F 3 "" H 4850 4700 60  0000 C CNN
 	1    4850 4700
 	0    1    1    0   
@@ -1242,7 +1235,7 @@ U 1 1 5E40009B
 P 4350 4700
 F 0 "K27" V 4350 4700 60  0000 C CNN
 F 1 "KEYSW" H 4350 4600 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4350 4700 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 4350 4700 60  0001 C CNN
 F 3 "" H 4350 4700 60  0000 C CNN
 	1    4350 4700
 	0    1    1    0   
@@ -1253,7 +1246,7 @@ U 1 1 5E4000A1
 P 3350 4700
 F 0 "K25" V 3350 4700 60  0000 C CNN
 F 1 "KEYSW" H 3350 4600 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3350 4700 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3350 4700 60  0001 C CNN
 F 3 "" H 3350 4700 60  0000 C CNN
 	1    3350 4700
 	0    1    1    0   
@@ -1264,7 +1257,7 @@ U 1 1 5E4000A7
 P 3850 4700
 F 0 "K26" V 3850 4700 60  0000 C CNN
 F 1 "KEYSW" H 3850 4600 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3850 4700 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3850 4700 60  0001 C CNN
 F 3 "" H 3850 4700 60  0000 C CNN
 	1    3850 4700
 	0    1    1    0   
@@ -1379,7 +1372,7 @@ U 1 1 5E4000E8
 P 6850 3650
 F 0 "K24" V 6850 3650 60  0000 C CNN
 F 1 "KEYSW" H 6850 3550 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6850 3650 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 6850 3650 60  0001 C CNN
 F 3 "" H 6850 3650 60  0000 C CNN
 	1    6850 3650
 	0    1    1    0   
@@ -1402,7 +1395,7 @@ U 1 1 5E4000F4
 P 6350 3650
 F 0 "K23" V 6350 3650 60  0000 C CNN
 F 1 "KEYSW" H 6350 3550 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6350 3650 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 6350 3650 60  0001 C CNN
 F 3 "" H 6350 3650 60  0000 C CNN
 	1    6350 3650
 	0    1    1    0   
@@ -1413,7 +1406,7 @@ U 1 1 5E4000FA
 P 5850 3650
 F 0 "K22" V 5850 3650 60  0000 C CNN
 F 1 "KEYSW" H 5850 3550 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5850 3650 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 5850 3650 60  0001 C CNN
 F 3 "" H 5850 3650 60  0000 C CNN
 	1    5850 3650
 	0    1    1    0   
@@ -1436,7 +1429,7 @@ U 1 1 5E400106
 P 5350 3650
 F 0 "K21" V 5350 3650 60  0000 C CNN
 F 1 "KEYSW" H 5350 3550 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5350 3650 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 5350 3650 60  0001 C CNN
 F 3 "" H 5350 3650 60  0000 C CNN
 	1    5350 3650
 	0    1    1    0   
@@ -1447,7 +1440,7 @@ U 1 1 5E40010C
 P 4850 3650
 F 0 "K20" V 4850 3650 60  0000 C CNN
 F 1 "KEYSW" H 4850 3550 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4850 3650 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 4850 3650 60  0001 C CNN
 F 3 "" H 4850 3650 60  0000 C CNN
 	1    4850 3650
 	0    1    1    0   
@@ -1491,7 +1484,7 @@ U 1 1 5E400123
 P 4350 3650
 F 0 "K19" V 4350 3650 60  0000 C CNN
 F 1 "KEYSW" H 4350 3550 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4350 3650 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 4350 3650 60  0001 C CNN
 F 3 "" H 4350 3650 60  0000 C CNN
 	1    4350 3650
 	0    1    1    0   
@@ -1502,7 +1495,7 @@ U 1 1 5E400129
 P 3350 3650
 F 0 "K17" V 3350 3650 60  0000 C CNN
 F 1 "KEYSW" H 3350 3550 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3350 3650 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3350 3650 60  0001 C CNN
 F 3 "" H 3350 3650 60  0000 C CNN
 	1    3350 3650
 	0    1    1    0   
@@ -1513,7 +1506,7 @@ U 1 1 5E40012F
 P 3850 3650
 F 0 "K18" V 3850 3650 60  0000 C CNN
 F 1 "KEYSW" H 3850 3550 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3850 3650 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3850 3650 60  0001 C CNN
 F 3 "" H 3850 3650 60  0000 C CNN
 	1    3850 3650
 	0    1    1    0   
@@ -1606,26 +1599,7 @@ F 3 "~" H 4850 3100 50  0001 C CNN
 $EndComp
 Connection ~ 3350 3250
 Wire Wire Line
-	6350 2200 6850 2200
-Connection ~ 6350 2200
-Wire Wire Line
-	5850 2200 6350 2200
-Connection ~ 5850 2200
-Wire Wire Line
-	5350 2200 5850 2200
-Connection ~ 5350 2200
-Wire Wire Line
-	4850 2200 5350 2200
-Connection ~ 4850 2200
-Connection ~ 4350 2200
-Wire Wire Line
-	4350 2200 4850 2200
-Wire Wire Line
 	6850 2900 6850 2950
-Wire Wire Line
-	6850 1850 6850 1900
-Wire Wire Line
-	7000 1250 7000 2300
 Connection ~ 7000 1250
 Wire Wire Line
 	7000 1250 7000 1000
@@ -1640,17 +1614,6 @@ F 3 "~" H 6850 3100 50  0001 C CNN
 	1    6850 3100
 	0    -1   -1   0   
 $EndComp
-$Comp
-L Device:D D7
-U 1 1 5E40017E
-P 6850 2050
-F 0 "D7" V 6900 2200 50  0000 R CNN
-F 1 "D" V 6800 2200 50  0001 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6850 2050 50  0001 C CNN
-F 3 "~" H 6850 2050 50  0001 C CNN
-	1    6850 2050
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	7000 2300 6850 2300
 Wire Wire Line
@@ -1661,62 +1624,21 @@ U 1 1 5E400186
 P 6850 2600
 F 0 "K16" V 6850 2600 60  0000 C CNN
 F 1 "KEYSW" H 6850 2500 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6850 2600 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 6850 2600 60  0001 C CNN
 F 3 "" H 6850 2600 60  0000 C CNN
 	1    6850 2600
-	0    1    1    0   
-$EndComp
-$Comp
-L keyboard_parts:KEYSW K7
-U 1 1 5E40018C
-P 6850 1550
-F 0 "K7" V 6850 1550 60  0000 C CNN
-F 1 "KEYSW" H 6850 1450 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6850 1550 60  0001 C CNN
-F 3 "" H 6850 1550 60  0000 C CNN
-	1    6850 1550
 	0    1    1    0   
 $EndComp
 Wire Wire Line
 	5850 2900 5850 2950
 Wire Wire Line
 	6350 2900 6350 2950
-Wire Wire Line
-	5850 1850 5850 1900
-Wire Wire Line
-	6350 1850 6350 1900
-Wire Wire Line
-	6500 1250 6500 2300
-Wire Wire Line
-	6000 1250 6000 2300
-$Comp
-L Device:D D5
-U 1 1 5E400198
-P 5850 2050
-F 0 "D5" V 5900 2200 50  0000 R CNN
-F 1 "D" V 5800 2200 50  0001 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5850 2050 50  0001 C CNN
-F 3 "~" H 5850 2050 50  0001 C CNN
-	1    5850 2050
-	0    -1   -1   0   
-$EndComp
 Connection ~ 6500 1250
 Wire Wire Line
 	6500 1250 6500 1000
 Connection ~ 6000 1250
 Wire Wire Line
 	6000 1250 6000 1000
-$Comp
-L Device:D D6
-U 1 1 5E4001A2
-P 6350 2050
-F 0 "D6" V 6400 2200 50  0000 R CNN
-F 1 "D" V 6300 2200 50  0001 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6350 2050 50  0001 C CNN
-F 3 "~" H 6350 2050 50  0001 C CNN
-	1    6350 2050
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	6500 2300 6350 2300
 Wire Wire Line
@@ -1731,31 +1653,9 @@ U 1 1 5E4001AC
 P 6350 2600
 F 0 "K15" V 6350 2600 60  0000 C CNN
 F 1 "KEYSW" H 6350 2500 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6350 2600 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 6350 2600 60  0001 C CNN
 F 3 "" H 6350 2600 60  0000 C CNN
 	1    6350 2600
-	0    1    1    0   
-$EndComp
-$Comp
-L keyboard_parts:KEYSW K6
-U 1 1 5E4001B2
-P 6350 1550
-F 0 "K6" V 6350 1550 60  0000 C CNN
-F 1 "KEYSW" H 6350 1450 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6350 1550 60  0001 C CNN
-F 3 "" H 6350 1550 60  0000 C CNN
-	1    6350 1550
-	0    1    1    0   
-$EndComp
-$Comp
-L keyboard_parts:KEYSW K5
-U 1 1 5E4001B8
-P 5850 1550
-F 0 "K5" V 5850 1550 60  0000 C CNN
-F 1 "KEYSW" H 5850 1450 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5850 1550 60  0001 C CNN
-F 3 "" H 5850 1550 60  0000 C CNN
-	1    5850 1550
 	0    1    1    0   
 $EndComp
 $Comp
@@ -1764,7 +1664,7 @@ U 1 1 5E4001BE
 P 5850 2600
 F 0 "K14" V 5850 2600 60  0000 C CNN
 F 1 "KEYSW" H 5850 2500 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5850 2600 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 5850 2600 60  0001 C CNN
 F 3 "" H 5850 2600 60  0000 C CNN
 	1    5850 2600
 	0    1    1    0   
@@ -1773,42 +1673,12 @@ Wire Wire Line
 	4850 2900 4850 2950
 Wire Wire Line
 	5350 2900 5350 2950
-Wire Wire Line
-	4850 1850 4850 1900
-Wire Wire Line
-	5350 1850 5350 1900
-Wire Wire Line
-	5500 1250 5500 2300
-Wire Wire Line
-	5000 1250 5000 2300
-$Comp
-L Device:D D3
-U 1 1 5E4001CA
-P 4850 2050
-F 0 "D3" V 4900 2200 50  0000 R CNN
-F 1 "D" V 4800 2200 50  0001 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4850 2050 50  0001 C CNN
-F 3 "~" H 4850 2050 50  0001 C CNN
-	1    4850 2050
-	0    -1   -1   0   
-$EndComp
 Connection ~ 5500 1250
 Wire Wire Line
 	5500 1250 5500 1000
 Connection ~ 5000 1250
 Wire Wire Line
 	5000 1250 5000 1000
-$Comp
-L Device:D D4
-U 1 1 5E4001D4
-P 5350 2050
-F 0 "D4" V 5400 2200 50  0000 R CNN
-F 1 "D" V 5300 2200 50  0001 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5350 2050 50  0001 C CNN
-F 3 "~" H 5350 2050 50  0001 C CNN
-	1    5350 2050
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	5500 2300 5350 2300
 Wire Wire Line
@@ -1823,31 +1693,9 @@ U 1 1 5E4001DE
 P 5350 2600
 F 0 "K13" V 5350 2600 60  0000 C CNN
 F 1 "KEYSW" H 5350 2500 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5350 2600 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 5350 2600 60  0001 C CNN
 F 3 "" H 5350 2600 60  0000 C CNN
 	1    5350 2600
-	0    1    1    0   
-$EndComp
-$Comp
-L keyboard_parts:KEYSW K4
-U 1 1 5E4001E4
-P 5350 1550
-F 0 "K4" V 5350 1550 60  0000 C CNN
-F 1 "KEYSW" H 5350 1450 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5350 1550 60  0001 C CNN
-F 3 "" H 5350 1550 60  0000 C CNN
-	1    5350 1550
-	0    1    1    0   
-$EndComp
-$Comp
-L keyboard_parts:KEYSW K3
-U 1 1 5E4001EA
-P 4850 1550
-F 0 "K3" V 4850 1550 60  0000 C CNN
-F 1 "KEYSW" H 4850 1450 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4850 1550 60  0001 C CNN
-F 3 "" H 4850 1550 60  0000 C CNN
-	1    4850 1550
 	0    1    1    0   
 $EndComp
 $Comp
@@ -1856,7 +1704,7 @@ U 1 1 5E4001F0
 P 4850 2600
 F 0 "K12" V 4850 2600 60  0000 C CNN
 F 1 "KEYSW" H 4850 2500 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4850 2600 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 4850 2600 60  0001 C CNN
 F 3 "" H 4850 2600 60  0000 C CNN
 	1    4850 2600
 	0    1    1    0   
@@ -1875,24 +1723,9 @@ Text GLabel 3500 1000 1    50   Input ~ 0
 col0
 Text GLabel 3050 3250 0    50   Input ~ 0
 row1
-Wire Wire Line
-	4350 1850 4350 1900
-Wire Wire Line
-	4500 1250 4500 2300
 Connection ~ 4500 1250
 Wire Wire Line
 	4500 1250 4500 1000
-$Comp
-L Device:D D2
-U 1 1 5E40021F
-P 4350 2050
-F 0 "D2" V 4400 2200 50  0000 R CNN
-F 1 "D" V 4300 2200 50  0001 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4350 2050 50  0001 C CNN
-F 3 "~" H 4350 2050 50  0001 C CNN
-	1    4350 2050
-	0    -1   -1   0   
-$EndComp
 $Comp
 L Device:D D9
 U 1 1 5E400225
@@ -1918,7 +1751,7 @@ U 1 1 5E400231
 P 4350 2600
 F 0 "K11" V 4350 2600 60  0000 C CNN
 F 1 "KEYSW" H 4350 2500 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4350 2600 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 4350 2600 60  0001 C CNN
 F 3 "" H 4350 2600 60  0000 C CNN
 	1    4350 2600
 	0    1    1    0   
@@ -1929,20 +1762,9 @@ U 1 1 5E400237
 P 3350 2600
 F 0 "K9" V 3350 2600 60  0000 C CNN
 F 1 "KEYSW" H 3350 2500 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3350 2600 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3350 2600 60  0001 C CNN
 F 3 "" H 3350 2600 60  0000 C CNN
 	1    3350 2600
-	0    1    1    0   
-$EndComp
-$Comp
-L keyboard_parts:KEYSW K2
-U 1 1 5E40023D
-P 4350 1550
-F 0 "K2" V 4350 1550 60  0000 C CNN
-F 1 "KEYSW" H 4350 1450 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4350 1550 60  0001 C CNN
-F 3 "" H 4350 1550 60  0000 C CNN
-	1    4350 1550
 	0    1    1    0   
 $EndComp
 $Comp
@@ -1951,7 +1773,7 @@ U 1 1 5E400249
 P 3850 2600
 F 0 "K10" V 3850 2600 60  0000 C CNN
 F 1 "KEYSW" H 3850 2500 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3850 2600 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3850 2600 60  0001 C CNN
 F 3 "" H 3850 2600 60  0000 C CNN
 	1    3850 2600
 	0    1    1    0   
@@ -2010,73 +1832,12 @@ Connection ~ 4000 1250
 Wire Wire Line
 	4000 1250 4000 1000
 Wire Wire Line
-	4000 1250 4000 2300
-Connection ~ 3350 2200
-Wire Wire Line
-	3350 2200 3850 2200
-Wire Wire Line
-	3850 2200 4350 2200
-Connection ~ 3850 2200
-Wire Wire Line
-	3050 2200 3350 2200
-$Comp
-L keyboard_parts:KEYSW K1
-U 1 1 5E400243
-P 3850 1550
-F 0 "K1" V 3850 1550 60  0000 C CNN
-F 1 "KEYSW" H 3850 1450 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3850 1550 60  0001 C CNN
-F 3 "" H 3850 1550 60  0000 C CNN
-	1    3850 1550
-	0    1    1    0   
-$EndComp
-Wire Wire Line
 	3850 1250 4000 1250
 Wire Wire Line
 	3350 1250 3500 1250
 Wire Wire Line
 	3500 1250 3500 1000
-$Comp
-L Device:D D0
-U 1 1 5E400213
-P 3350 2050
-F 0 "D0" V 3400 2200 50  0000 R CNN
-F 1 "D" V 3300 2200 50  0001 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3350 2050 50  0001 C CNN
-F 3 "~" H 3350 2050 50  0001 C CNN
-	1    3350 2050
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:D D1
-U 1 1 5E40020D
-P 3850 2050
-F 0 "D1" V 3900 2200 50  0000 R CNN
-F 1 "D" V 3800 2200 50  0001 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3850 2050 50  0001 C CNN
-F 3 "~" H 3850 2050 50  0001 C CNN
-	1    3850 2050
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3850 1850 3850 1900
-Wire Wire Line
-	3350 1850 3350 1900
-$Comp
-L keyboard_parts:KEYSW K0
-U 1 1 5E4001F6
-P 3350 1550
-F 0 "K0" V 3350 1550 60  0000 C CNN
-F 1 "KEYSW" H 3350 1450 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3350 1550 60  0001 C CNN
-F 3 "" H 3350 1550 60  0000 C CNN
-	1    3350 1550
-	0    1    1    0   
-$EndComp
-Connection ~ 3500 2300
 Connection ~ 3500 1250
-Wire Wire Line
-	3500 1250 3500 2300
 Text GLabel 3050 2200 0    50   Input ~ 0
 row0
 Text GLabel 750  1800 0    50   Input ~ 0
@@ -2169,7 +1930,7 @@ U 1 1 5E5F5AFA
 P 3350 9950
 F 0 "K65" V 3350 9950 60  0000 C CNN
 F 1 "KEYSW" H 3350 9850 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3350 9950 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3350 9950 60  0001 C CNN
 F 3 "" H 3350 9950 60  0000 C CNN
 	1    3350 9950
 	0    1    1    0   
@@ -2204,4 +1965,243 @@ clock
 Text GLabel 2150 1600 2    50   Input ~ 0
 latch
 NoConn ~ 1850 3550
+Connection ~ 3500 2300
+Connection ~ 3850 2200
+Wire Wire Line
+	3050 2200 3350 2200
+Connection ~ 3350 2200
+Connection ~ 4350 2200
+Connection ~ 4850 2200
+Connection ~ 5350 2200
+Connection ~ 5850 2200
+Connection ~ 6350 2200
+Connection ~ 4000 2300
+Connection ~ 4500 2300
+Connection ~ 5000 2300
+Connection ~ 5500 2300
+Connection ~ 6000 2300
+Connection ~ 6500 2300
+Connection ~ 7000 2300
+Wire Wire Line
+	6350 2200 6850 2200
+Wire Wire Line
+	5850 2200 6350 2200
+Wire Wire Line
+	5350 2200 5850 2200
+Wire Wire Line
+	4850 2200 5350 2200
+Wire Wire Line
+	4350 2200 4850 2200
+Wire Wire Line
+	3850 2200 4350 2200
+Wire Wire Line
+	3350 2200 3850 2200
+Wire Wire Line
+	3500 1250 3500 2300
+$Comp
+L keyboard_parts:KEYSW K0
+U 1 1 5E4001F6
+P 3350 1550
+F 0 "K0" V 3350 1550 60  0000 C CNN
+F 1 "KEYSW" H 3350 1450 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3350 1550 60  0001 C CNN
+F 3 "" H 3350 1550 60  0000 C CNN
+	1    3350 1550
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3350 1850 3350 1900
+Wire Wire Line
+	3850 1850 3850 1900
+$Comp
+L Device:D D1
+U 1 1 5E40020D
+P 3850 2050
+F 0 "D1" V 3900 2200 50  0000 R CNN
+F 1 "D" V 3800 2200 50  0001 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3850 2050 50  0001 C CNN
+F 3 "~" H 3850 2050 50  0001 C CNN
+	1    3850 2050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D0
+U 1 1 5E400213
+P 3350 2050
+F 0 "D0" V 3400 2200 50  0000 R CNN
+F 1 "D" V 3300 2200 50  0001 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3350 2050 50  0001 C CNN
+F 3 "~" H 3350 2050 50  0001 C CNN
+	1    3350 2050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K1
+U 1 1 5E400243
+P 3850 1550
+F 0 "K1" V 3850 1550 60  0000 C CNN
+F 1 "KEYSW" H 3850 1450 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 3850 1550 60  0001 C CNN
+F 3 "" H 3850 1550 60  0000 C CNN
+	1    3850 1550
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4000 1250 4000 2300
+$Comp
+L keyboard_parts:KEYSW K2
+U 1 1 5E40023D
+P 4350 1550
+F 0 "K2" V 4350 1550 60  0000 C CNN
+F 1 "KEYSW" H 4350 1450 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 4350 1550 60  0001 C CNN
+F 3 "" H 4350 1550 60  0000 C CNN
+	1    4350 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D2
+U 1 1 5E40021F
+P 4350 2050
+F 0 "D2" V 4400 2200 50  0000 R CNN
+F 1 "D" V 4300 2200 50  0001 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4350 2050 50  0001 C CNN
+F 3 "~" H 4350 2050 50  0001 C CNN
+	1    4350 2050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4500 1250 4500 2300
+Wire Wire Line
+	4350 1850 4350 1900
+$Comp
+L keyboard_parts:KEYSW K3
+U 1 1 5E4001EA
+P 4850 1550
+F 0 "K3" V 4850 1550 60  0000 C CNN
+F 1 "KEYSW" H 4850 1450 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 4850 1550 60  0001 C CNN
+F 3 "" H 4850 1550 60  0000 C CNN
+	1    4850 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K4
+U 1 1 5E4001E4
+P 5350 1550
+F 0 "K4" V 5350 1550 60  0000 C CNN
+F 1 "KEYSW" H 5350 1450 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 5350 1550 60  0001 C CNN
+F 3 "" H 5350 1550 60  0000 C CNN
+	1    5350 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D4
+U 1 1 5E4001D4
+P 5350 2050
+F 0 "D4" V 5400 2200 50  0000 R CNN
+F 1 "D" V 5300 2200 50  0001 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5350 2050 50  0001 C CNN
+F 3 "~" H 5350 2050 50  0001 C CNN
+	1    5350 2050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D3
+U 1 1 5E4001CA
+P 4850 2050
+F 0 "D3" V 4900 2200 50  0000 R CNN
+F 1 "D" V 4800 2200 50  0001 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4850 2050 50  0001 C CNN
+F 3 "~" H 4850 2050 50  0001 C CNN
+	1    4850 2050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5000 1250 5000 2300
+Wire Wire Line
+	5500 1250 5500 2300
+Wire Wire Line
+	5350 1850 5350 1900
+Wire Wire Line
+	4850 1850 4850 1900
+$Comp
+L keyboard_parts:KEYSW K5
+U 1 1 5E4001B8
+P 5850 1550
+F 0 "K5" V 5850 1550 60  0000 C CNN
+F 1 "KEYSW" H 5850 1450 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 5850 1550 60  0001 C CNN
+F 3 "" H 5850 1550 60  0000 C CNN
+	1    5850 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K6
+U 1 1 5E4001B2
+P 6350 1550
+F 0 "K6" V 6350 1550 60  0000 C CNN
+F 1 "KEYSW" H 6350 1450 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 6350 1550 60  0001 C CNN
+F 3 "" H 6350 1550 60  0000 C CNN
+	1    6350 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D6
+U 1 1 5E4001A2
+P 6350 2050
+F 0 "D6" V 6400 2200 50  0000 R CNN
+F 1 "D" V 6300 2200 50  0001 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6350 2050 50  0001 C CNN
+F 3 "~" H 6350 2050 50  0001 C CNN
+	1    6350 2050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D5
+U 1 1 5E400198
+P 5850 2050
+F 0 "D5" V 5900 2200 50  0000 R CNN
+F 1 "D" V 5800 2200 50  0001 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5850 2050 50  0001 C CNN
+F 3 "~" H 5850 2050 50  0001 C CNN
+	1    5850 2050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6000 1250 6000 2300
+Wire Wire Line
+	6500 1250 6500 2300
+Wire Wire Line
+	6350 1850 6350 1900
+Wire Wire Line
+	5850 1850 5850 1900
+$Comp
+L keyboard_parts:KEYSW K7
+U 1 1 5E40018C
+P 6850 1550
+F 0 "K7" V 6850 1550 60  0000 C CNN
+F 1 "KEYSW" H 6850 1450 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 6850 1550 60  0001 C CNN
+F 3 "" H 6850 1550 60  0000 C CNN
+	1    6850 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D7
+U 1 1 5E40017E
+P 6850 2050
+F 0 "D7" V 6900 2200 50  0000 R CNN
+F 1 "D" V 6800 2200 50  0001 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6850 2050 50  0001 C CNN
+F 3 "~" H 6850 2050 50  0001 C CNN
+	1    6850 2050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7000 1250 7000 2300
+Wire Wire Line
+	6850 1850 6850 1900
 $EndSCHEMATC
