@@ -20,7 +20,7 @@ Text GLabel 4200 4450 1    50   Input ~ 0
 col6
 Text GLabel 3700 4450 1    50   Input ~ 0
 col5
-Text GLabel 750  2000 0    50   Input ~ 0
+Text GLabel 2150 1700 2    50   Input ~ 0
 col0
 $Comp
 L 74xx:74HC595 U1
@@ -260,11 +260,9 @@ Connection ~ 1050 5650
 Wire Wire Line
 	750  5650 1050 5650
 Connection ~ 1550 5650
-Text GLabel 2150 1500 2    50   Input ~ 0
-latch
-Text GLabel 2150 1400 2    50   Input ~ 0
+Text GLabel 2150 1900 2    50   Input ~ 0
 clock
-Text GLabel 2150 1300 2    50   Input ~ 0
+Text GLabel 2150 2000 2    50   Input ~ 0
 data
 Text GLabel 2150 1200 2    50   Input ~ 0
 VCC
@@ -274,15 +272,15 @@ Text GLabel 2700 4450 1    50   Input ~ 0
 col3
 Text GLabel 3200 4450 1    50   Input ~ 0
 col4
-Text GLabel 750  1500 0    50   Input ~ 0
-row0
 Text GLabel 750  1900 0    50   Input ~ 0
+row0
+Text GLabel 750  1500 0    50   Input ~ 0
 row4
-Text GLabel 750  1600 0    50   Input ~ 0
+Text GLabel 2150 1300 2    50   Input ~ 0
 row1
-Text GLabel 750  1700 0    50   Input ~ 0
+Text GLabel 2150 1500 2    50   Input ~ 0
 row2
-Text GLabel 750  1800 0    50   Input ~ 0
+Text GLabel 2150 1400 2    50   Input ~ 0
 row3
 Text GLabel 750  5650 0    50   Input ~ 0
 row0
@@ -1793,19 +1791,19 @@ Wire Wire Line
 	1700 7850 1550 7850
 Wire Wire Line
 	1200 7850 1050 7850
-Text GLabel 2150 1600 2    50   Input ~ 0
+Text GLabel 750  2000 0    50   Input ~ 0
 col5
-Text GLabel 2150 1700 2    50   Input ~ 0
+Text GLabel 750  1800 0    50   Input ~ 0
 col4
-Text GLabel 2150 1800 2    50   Input ~ 0
+Text GLabel 750  1700 0    50   Input ~ 0
 col3
 Text GLabel 1850 3350 2    50   Input ~ 0
 col6
 Text GLabel 1850 3250 2    50   Input ~ 0
 col7
-Text GLabel 2150 2000 2    50   Input ~ 0
+Text GLabel 2150 1600 2    50   Input ~ 0
 col1
-Text GLabel 2150 1900 2    50   Input ~ 0
+Text GLabel 750  1600 0    50   Input ~ 0
 col2
 Wire Wire Line
 	4700 5750 4550 5750
@@ -2208,4 +2206,6 @@ col11
 Text GLabel 1850 2950 2    50   Input ~ 0
 col10
 NoConn ~ 1850 3550
+Text GLabel 2150 1800 2    50   Input ~ 0
+latch
 $EndSCHEMATC
