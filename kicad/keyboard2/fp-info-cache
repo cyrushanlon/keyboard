@@ -1,4 +1,4 @@
-16479289777418657
+16484036733210323
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -56714,6 +56714,13 @@ THT DIP DIL PDIP 2.54mm 26.669999999999998mm 1050mil SMDSocket LongPads
 40
 40
 Package_DIP
+DIP-41_W7.62mm
+42-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+41
+41
+Package_DIP
 DIP-42_W15.24mm
 42-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
 THT DIP DIL PDIP 2.54mm 15.24mm 600mil
@@ -72904,6 +72911,20 @@ varistor SIOV
 0
 2
 2
+hirose
+HRS_FH26-39S-0.3SHW(05)
+
+
+0
+41
+41
+hirose
+HRS_FH26-41S-0.3SHW(05)
+
+
+0
+43
+43
 kalih keyswitches
 Kailh_socket
 MX-style keyswitch with Kailh socket mount
