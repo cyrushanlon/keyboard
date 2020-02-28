@@ -971,8 +971,6 @@ Wire Wire Line
 Connection ~ 15250 15800
 Wire Wire Line
 	15250 15800 15750 15800
-Wire Wire Line
-	10750 15800 13750 15800
 Connection ~ 13750 15800
 Wire Wire Line
 	13750 15800 14250 15800
@@ -998,18 +996,14 @@ Connection ~ 12750 11600
 Connection ~ 12750 12650
 Connection ~ 12750 13700
 Connection ~ 12750 14750
-Connection ~ 10750 15800
 Connection ~ 9900 13800
 Wire Wire Line
 	9900 13800 9900 14850
 Connection ~ 10400 13800
 Wire Wire Line
 	10400 13800 10400 14850
-Connection ~ 10900 13800
 Wire Wire Line
-	10900 14850 10900 13800
-Wire Wire Line
-	10250 15800 10750 15800
+	13400 14850 13400 13800
 Connection ~ 10250 15800
 Wire Wire Line
 	9750 15800 10250 15800
@@ -1432,22 +1426,22 @@ $EndComp
 $Comp
 L keyboard_parts:KEYSW K59
 U 1 1 5E3FFE66
-P 10750 15150
-F 0 "K59" V 10750 15150 60  0000 C CNN
-F 1 "KEYSW" H 10750 15050 60  0001 C CNN
-F 2 "kalih keyswitches:Kailh_socket" H 10750 15150 60  0001 C CNN
-F 3 "" H 10750 15150 60  0000 C CNN
-	1    10750 15150
+P 13250 15150
+F 0 "K59" V 13250 15150 60  0000 C CNN
+F 1 "KEYSW" H 13250 15050 60  0001 C CNN
+F 2 "kalih keyswitches:Kailh_socket" H 13250 15150 60  0001 C CNN
+F 3 "" H 13250 15150 60  0000 C CNN
+	1    13250 15150
 	0    1    1    0   
 $EndComp
 Wire Wire Line
 	10400 14850 10250 14850
 Wire Wire Line
-	10900 14850 10750 14850
+	13400 14850 13250 14850
 Wire Wire Line
 	9900 14850 9750 14850
 Wire Wire Line
-	10750 15450 10750 15500
+	13250 15450 13250 15500
 Wire Wire Line
 	10250 15450 10250 15500
 Wire Wire Line
@@ -1455,12 +1449,12 @@ Wire Wire Line
 $Comp
 L Device:D D60
 U 1 1 5E3FFE0C
-P 10750 15650
-F 0 "D60" V 10800 15800 50  0000 R CNN
-F 1 "D" V 10700 15800 50  0001 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10750 15650 50  0001 C CNN
-F 3 "~" H 10750 15650 50  0001 C CNN
-	1    10750 15650
+P 13250 15650
+F 0 "D60" V 13300 15800 50  0000 R CNN
+F 1 "D" V 13200 15800 50  0001 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 13250 15650 50  0001 C CNN
+F 3 "~" H 13250 15650 50  0001 C CNN
+	1    13250 15650
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
@@ -2236,59 +2230,40 @@ Text GLabel 13400 10400 1    50   Input ~ 0
 col8
 Text GLabel 12900 10400 1    50   Input ~ 0
 col7
-Text GLabel 10200 3950 2    50   Input ~ 0
-col13
-Text GLabel 10200 4050 2    50   Input ~ 0
+Text GLabel 10200 2750 2    50   Input ~ 0
 col12
-Text GLabel 10200 4150 2    50   Input ~ 0
+Text GLabel 10200 2650 2    50   Input ~ 0
 col11
-Text GLabel 10200 4250 2    50   Input ~ 0
-col10
-Text GLabel 10200 4350 2    50   Input ~ 0
-col9
-Text GLabel 10200 4450 2    50   Input ~ 0
-col8
-Text GLabel 10200 4550 2    50   Input ~ 0
-col7
-Text GLabel 10200 5550 2    50   Input ~ 0
-row0
 Text GLabel 10200 5450 2    50   Input ~ 0
-row1
+col10
+Text GLabel 10200 5550 2    50   Input ~ 0
+col9
 Text GLabel 10200 3650 2    50   Input ~ 0
+col8
+Text GLabel 10200 3550 2    50   Input ~ 0
+col7
+Text GLabel 10200 3150 2    50   Input ~ 0
+row0
+Text GLabel 10200 4550 2    50   Input ~ 0
+row1
+Text GLabel 10200 4450 2    50   Input ~ 0
 row2
 Text GLabel 10200 3350 2    50   Input ~ 0
 row4
-Text GLabel 10200 3550 2    50   Input ~ 0
-row3
-Text GLabel 10200 3150 2    50   Input ~ 0
-col1
-Text GLabel 10200 3250 2    50   Input ~ 0
-col0
-Text GLabel 10200 2750 2    50   Input ~ 0
-col4
-Text GLabel 10200 2650 2    50   Input ~ 0
-col3
 Text GLabel 10200 3050 2    50   Input ~ 0
-col2
-Text GLabel 10200 2850 2    50   Input ~ 0
-col5
+row3
+Text GLabel 10200 4050 2    50   Input ~ 0
+col1
+Text GLabel 10200 3950 2    50   Input ~ 0
+col0
+Text GLabel 10200 4350 2    50   Input ~ 0
+col4
 Text GLabel 10200 2950 2    50   Input ~ 0
-col6
-$Comp
-L power:Earth #PWR0105
-U 1 1 5F024DCA
-P 10450 4850
-F 0 "#PWR0105" H 10450 4600 50  0001 C CNN
-F 1 "Earth" H 10450 4700 50  0001 C CNN
-F 2 "" H 10450 4850 50  0001 C CNN
-F 3 "~" H 10450 4850 50  0001 C CNN
-	1    10450 4850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10450 4850 10450 4750
-Wire Wire Line
-	10100 4750 10450 4750
+col3
+Text GLabel 10200 4150 2    50   Input ~ 0
+col2
+Text GLabel 10200 4250 2    50   Input ~ 0
+col5
 Wire Wire Line
 	10100 3350 10200 3350
 Wire Wire Line
@@ -2492,4 +2467,29 @@ Wire Wire Line
 	9500 8150 9600 8150
 Wire Wire Line
 	9600 8150 9600 8250
+Text GLabel 10200 2850 2    50   Input ~ 0
+col13
+Connection ~ 13250 15800
+Wire Wire Line
+	13250 15800 13750 15800
+Connection ~ 13400 13800
+Wire Wire Line
+	10250 15800 13250 15800
+Wire Wire Line
+	10100 4750 10450 4750
+Wire Wire Line
+	10450 4850 10450 4750
+$Comp
+L power:Earth #PWR0105
+U 1 1 5F024DCA
+P 10450 4850
+F 0 "#PWR0105" H 10450 4600 50  0001 C CNN
+F 1 "Earth" H 10450 4700 50  0001 C CNN
+F 2 "" H 10450 4850 50  0001 C CNN
+F 3 "~" H 10450 4850 50  0001 C CNN
+	1    10450 4850
+	1    0    0    -1  
+$EndComp
+Text GLabel 10200 3250 2    50   Input ~ 0
+col6
 $EndSCHEMATC
